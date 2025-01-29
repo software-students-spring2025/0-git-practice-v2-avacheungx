@@ -11,3 +11,7 @@ A few days ago, NVIDIA experienced one of its most significant losses in capital
 ## Jasmine Fan (jf4654): Comment
 
 This makes me think about how Deepseek will not only affect the future of AI and Software Engineering, but also fields that do not relate to tech at all. With Deepseek taking only taking ~$5 million to develop versus OpenAI's ~$1 billion, how will Western companies compete against the race for LLM's?
+
+## Andy Liu (al6425): Comment
+
+Indeed it was a few days of a very interesting situation regarding DeepSeek. What surprised most of the AI investors are the fact that DeepSeek was able to produce a good model with hundred times lower the cost. In addition, there exists the ban on AI chip export. So DeepSeek essentially bootstrapped their way to their version of a ChatGPT. Funny thing is people bought up Nvidia's stock today by 6% after the 13% drop yesterday. Perhaps as the situation develops, market realized the selloff was overdone.
