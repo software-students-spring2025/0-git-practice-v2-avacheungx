@@ -10,7 +10,7 @@ A few days ago, NVIDIA experienced one of its most significant losses in capital
 
 ## Jasmine Fan (jf4654): Comment
 
-This makes me think about how Deepseek will not only affect the future of AI and Software Engineering, but also fields that do not relate to tech at all. With Deepseek taking only taking ~$5 million to develop versus OpenAI's ~$1 billion, how will Western companies compete against the race for LLM's?
+This makes me think about how Deepseek will not only affect the future of AI and Software Engineering, but also fields that do not relate to tech at all. With Deepseek taking only taking ~$5 million to develop versus OpenAI's ~$1 billion, how will Western companies compete against the race for LLM's? (fixed configuration)
 
 ## Andy Liu (al6425): Comment
 
